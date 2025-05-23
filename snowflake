@@ -19,8 +19,8 @@ CREATE STORAGE INTEGRATION snowflake_si
   TYPE = EXTERNAL_STAGE
   STORAGE_PROVIDER = 'S3'
   ENABLED = TRUE
-  STORAGE_AWS_ROLE_ARN = 'arn:aws:iam::799480807888:role/SnowflakeSiRole'
-  STORAGE_ALLOWED_LOCATIONS = ('s3://jobscope-raw-uk23234/raw/');
+  STORAGE_AWS_ROLE_ARN = 'arn:aws:iam::<REDACTED>:role/SnowflakeSiRole'
+  STORAGE_ALLOWED_LOCATIONS = ('s3://mybucketname/raw/');
 
 DESC INTEGRATION snowflake_si;
 
@@ -31,7 +31,7 @@ USE DATABASE JSCOPE_DB;
 USE SCHEMA RAW;
 
 CREATE OR REPLACE STAGE raw_jobs_stage
-  URL = 's3://jobscope-raw-uk23234/raw/'
+  URL = 's3://mybucketname/raw/'
   STORAGE_INTEGRATION = snowflake_si;
 
 -- Verify stage is connected properly
