@@ -2,8 +2,8 @@
 
 ---
 
-**Dashboard: https://public.tableau.com/app/profile/syed.sareem.ahmed/viz/JobscopeUKdashboard/Dashboard1**
-**Notion docs: https://www.notion.so/Jobscope-UK-1fae86b95d2080cdadced495c488e2c7?pvs=4**
+- Dashboard: https://public.tableau.com/app/profile/syed.sareem.ahmed/viz/JobscopeUKdashboard/Dashboard1
+- Notion docs: https://www.notion.so/Jobscope-UK-1fae86b95d2080cdadced495c488e2c7?pvs=4
 
 ## Why This Project?
 
