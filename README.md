@@ -2,6 +2,9 @@
 
 ---
 
+**Dashboard: https://public.tableau.com/app/profile/syed.sareem.ahmed/viz/JobscopeUKdashboard/Dashboard1**
+**Notion docs: https://www.notion.so/Jobscope-UK-1fae86b95d2080cdadced495c488e2c7?pvs=4**
+
 ## Why This Project?
 
 This started as a portfolio challenge to go beyond static datasets and demonstrate that I could work with **real APIs**, **cloud architecture**, and **enterprise tools**. While the data processing could have been simpler, I chose AWS and Snowflake to show I can think at scale.
