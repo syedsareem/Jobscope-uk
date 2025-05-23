@@ -12,7 +12,7 @@ This document details how Snowflake was used to warehouse, clean, and model job 
 
 ---
 
-## 🗃️ Database & Schema Structure
+## Database & Schema Structure
 JSCOPE_DB/
 ├── RAW/
 │ └ JOBS_RAW ← Raw JSON from Adzuna via S3
