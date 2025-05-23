@@ -46,10 +46,10 @@ Tableau (dashboards with extracts)
 
 ## Project Structure
 
-/docs/ → ETL, S3, and Snowflake docs
-/python/ → Adzuna fetch script
-/snowflake/ → SQL scripts and schema logic
-/tableau/ → Extracts, screenshots, exportable .twbx
+- /docs/ → ETL, S3, and Snowflake docs
+- /python/ → Adzuna fetch script
+- /snowflake/ → SQL scripts and schema logic
+- /tableau/ → Extracts, screenshots, exportable .twbx
 
 ---
 
