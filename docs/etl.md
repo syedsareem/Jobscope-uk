@@ -4,7 +4,7 @@ This document explains the complete ETL workflow used in the JobScope UK dashboa
 
 ---
 
-## 🔄 Pipeline Summary
+## Pipeline Summary
 Adzuna API
 ↓
 adzuna_fetch_jobs.py
